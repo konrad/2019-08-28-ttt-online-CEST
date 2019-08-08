@@ -14,7 +14,7 @@ etherpad: "https://pad.carpentries.org/2019-08-28-ttt-online-CEST"            # 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
+    address: "Zoom URL coming soon"
 
 ---
 
